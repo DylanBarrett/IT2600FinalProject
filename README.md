@@ -1,2 +1,2 @@
 # IT2600FinalProject
-A guide on how to build a computer
+My final project for IT 2600
