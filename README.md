@@ -76,7 +76,7 @@ ___
 [$1000 gaming pc build guide](https://www.youtube.com/watch?v=fkHNgGaYR0I)
 
 
-### Here are a few pics of my PC which cost me around $1000.
+### Here are a few pics of my PC which cost me around $1000 at the time.
 ![PC1](IMG_4416.jpg)
 
 ![PC2](IMG_4417.jpg)
