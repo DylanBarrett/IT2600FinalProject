@@ -1,4 +1,4 @@
-# IT2600FinalProject
+# IT 2600 Final Project
 ___
 Created by *Dylan Barrett*
 
