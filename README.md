@@ -8,19 +8,15 @@ Purpose: Give a clear understanding of the process of building a computer and wh
 ___
 
 ## Budget
-___
-
 The first step when considering buying or building a computer is how much you are willing to spend on it. For most games today (2019) you can get by with a $500 computer. You also need to understand your own needs. Are you just going to be doing daily task like checking your email or surfing the web? If so then you can stay at or below the $500 budget, but if you want to do more intense task like playing games, streaming, or video/photo editing and processing then you will need to reconsider you budget closer to $1000 or so.
-
 ___
 
 ## Choosing Parts
+After you pick your budget then you can move onto actually picking out the parts you want, but where do you start? There are places like [pcpartpicker.com](https://pcpartpicker.com/) and others that allow to pick out parts and show you which peices are compatible with each other. 
 ___
 
-After you pick your budget then you can move onto actually picking out the parts you want, but where do you start? There are places like [pcpartpicker.com](https://pcpartpicker.com/) and others that allow to pick out parts and show you which peices are compatible with each other. 
-
 ## **Components you will need**
-1. Processor (CPU)
+* [1. Processor (CPU)](#Processor CPU)
 2. Motherboard (MOBO)
 3. Graphics Card (GPU)
 4. Memory (RAM)
