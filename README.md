@@ -18,11 +18,11 @@ ___
 ## Components you will need
 * [1. Processor (CPU)](#processor)
 * [2. Motherboard (MOBO)](#motherboard)
-* [3. Graphics Card (GPU)](#graphics Card)
+* [3. Graphics Card (GPU)](#graphics)
 * [4. Memory (RAM)](#memory)
 * [5. Cooling](#cooling)
 * [6. Storage (SSD or HDD)](#storage)
-* [7. Power Supply Unit (PSU)](#powersupplyunit)
+* [7. Power Supply Unit (PSU)](#power)
 * [8. Case](#case)
 ___
 ## Processor (CPU)
@@ -31,10 +31,10 @@ ___
 ## Motherboard (MOBO)
 Now that you have picked out your cpu its time to pick out the motherboard. Depending on what kind of CPU you chose you will need a certain kind of motherboard that is compatible with your chipset of the cpu. You can also choose how big you want your motherboard to be with sizes being from smalles to largest (FlexATX, microATX, Mini ATX, ATX, Extended ATX and WTX). You will also need to decide if you want to overclock your cpu, if you do then you will need to spend a little more on a motherboard as lower-end MOBOs don't allow for overclocking. Depending on the size of MOBO you want will determine how much RAM, PCI slots and connections you will have. General trusted and reliable MOBO brands are Gigabyte,ASUS, MSI, EVGA and ASRock.
 ___
-## Graphics Card (GPU)
+## Graphics
 The Graphics processing unit or GPU will the be the component that impacts your gaming performance the most. You don't want to cheapout on a graphics card or cpu as these componenets rely on each other to give your computer the best performance it can have. A general rule of thumb in the commmunity is to **NOT** spend less than *half* of your GPU budget on your cpu. Meaning if you budgeted $300 for your gpu then you should spend at least $150 on your cpu. This will help ensure that you are avoiding throttling or bottlenecking, which affects your overall performance of your computer.  Depending on what you are doing with your computer depends on how much Video RAM or VRAM you will need. For reference at a 6GB or higher you should expect good performance in VR titles, 4K titles and 1440p titles with high-definition textures.
 ___
-## Memory (RAM)
+## Memory
 RAM or Random Access Memory is the 3rd most important component for gaming and multitasking performance. It is tied directly to your CPU's performance. You can run RAM in single, dual or quad channel which all affect your CPU speed. As of now (2019) we are on DDR4 memory with DDR5 expected to become mainstream in 2021 or so. What matters the most when it comes to RAM is quanity and speed. The more RAM you have the better off your system will be at managing multiple applications at the same time. 
 
 -For now **4GB** or ram is the absolute minimum your system should have. 
@@ -45,14 +45,14 @@ ___
 ## Cooling
 For cooling you can choose a couple different options. When purchasing your CPU it comes with a stock air cooler included, you can choose to use this is you want to. If not, then there are 2 other options AIO Coolers which help lower the operating temps of your CPU to make it more effiecent than the stock cooler. Or you can do a custom water cooled loop, which requires a reservoir, water blocks and acrylic tubing. Depending on how hot you think your system is going to be running will determine which one you will need. Generally the stock cooler or an AIO cooler will be plenty for most users, while water cooled system are for heavy usage or just people that want to have a cool looking computer.
 ___
-## Storage (HDD or SSD)
+## Storage
 You have two options here Solid state Drive (ssd) or Hard disk Drive (hdd). 
 -If you want quality and speed go for a ssd as these are more durabe and smaller and size
 -If you want quanity then pick up a hdd.
 
 I would recommend getting both if you can afford it. Getting an ssd that is a couple hundred of gigabytes will hold you operating system, programs, and your favorite games. Doing this will improve boot times on your programs and the startup time (from off to home screen) this will make your system feel way more responsive. While your HDD would be used to store media and the rest of the games where loading times aren't an issue (single player games).
 ___
-## Power Supply Unit (PSU)
+## Power
 Getting a PSU is pretty straightforward you just need to follow a couple rules.
 1. Buy from reputable dealers (ie. Corsair, EVGA, Seasonic just to name a few)
 2. Make sure your get a power supply that will have enough wattage for your system.
