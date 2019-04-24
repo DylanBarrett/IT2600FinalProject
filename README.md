@@ -25,10 +25,10 @@ ___
 * [7. Power Supply Unit (PSU)](#power)
 * [8. Case](#case)
 ___
-## Processor (CPU)
+## Processor
 The processor or Central Processing Unit, is essentially the brain of your computer. There are generally two paths when it comes to cpus. You can either choose Intel which is known for thier stronger single-core performences, making them better for gaming. While AMD processors are known for thier stronger mulit-core performance, making them better for multitasking.
 ___
-## Motherboard (MOBO)
+## Motherboard
 Now that you have picked out your cpu its time to pick out the motherboard. Depending on what kind of CPU you chose you will need a certain kind of motherboard that is compatible with your chipset of the cpu. You can also choose how big you want your motherboard to be with sizes being from smalles to largest (FlexATX, microATX, Mini ATX, ATX, Extended ATX and WTX). You will also need to decide if you want to overclock your cpu, if you do then you will need to spend a little more on a motherboard as lower-end MOBOs don't allow for overclocking. Depending on the size of MOBO you want will determine how much RAM, PCI slots and connections you will have. General trusted and reliable MOBO brands are Gigabyte,ASUS, MSI, EVGA and ASRock.
 ___
 ## Graphics
