@@ -74,7 +74,6 @@ ___
 
 
 ### Here are a few pics of my PC which cost me around $1000 at the time.
-[here is a link to the components in my build](https://pcpartpicker.com/list/)
 
 ![PC1](IMG_4416.jpg)
 
