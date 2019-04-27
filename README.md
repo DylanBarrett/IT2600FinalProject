@@ -1,7 +1,10 @@
 # IT2600 Final Project How to build a computer
 Created by *Dylan Barrett*
+
 Description: An in depth guide of building a computer and the sub-parts that go into it.
+
 Purpose: Give a clear understanding of the process of building a computer and what each component does.
+
 Target Audience: Anyone who is in the process of looking to build a computer.
 ___
 
