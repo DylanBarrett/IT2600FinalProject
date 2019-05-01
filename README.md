@@ -1,4 +1,4 @@
-# IT2600 Final Project How to build a computer
+# How to build a computer
 Created by *Dylan Barrett*
 
 Description: An in depth guide of building a computer and the sub-parts that go into it.
